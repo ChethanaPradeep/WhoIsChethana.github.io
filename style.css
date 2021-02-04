@@ -1,0 +1,19 @@
+header
+{
+    font-size:30px;
+    color:white;
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+}
+body
+{
+    background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png");
+    background-size:cover;
+}
+.aboutpage
+{
+    opacity:0.6;
+    
+}
